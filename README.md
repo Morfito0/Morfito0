@@ -10,12 +10,16 @@
  </p>
 
 
+## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About Me
+
+I am a software engineering student
 <div align="center">
 <h2 align="center" style="margin: 5px 10px;">Github stats:</h2> 
 
 [![](https://github-readme-stats.vercel.app/api?username=Morfito0&show_icons=true&theme=tokyonight&hide_border=true&locale=en)](https://github.com/Morfito0)
 [![](https://github-readme-streak-stats.herokuapp.com/?user=Morfito0&theme=material-palenight)](https://github.com/Morfito0)
 </div>
+
 
  <b>Connect with Me</b>
 
@@ -28,3 +32,7 @@
  </a>
  
 <br>
+<p align="center">
+  <img  src="https://raw.githubusercontent.com/Elanza-48/Elanza-48/main/resources/img/github-contribution-grid-snake.svg"
+    alt="example" />
+</p>
