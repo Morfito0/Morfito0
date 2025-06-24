@@ -27,7 +27,7 @@ I am a software engineering student
 
 <p align="center">
 
- <a href="[https://www.instagram.com/](https://www.instagram.com/morfitoo/)">
+ <a href="https://www.instagram.com/morfitoo/">
  <img src='https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white'>
  </a>
  
